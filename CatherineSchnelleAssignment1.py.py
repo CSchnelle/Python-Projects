@@ -1,6 +1,15 @@
 #INF360-Programming in Python
 #Catherine Schnelle
 #Assignment 1
+#Instructions
+#In this assignment, you will create a simple script that will highlight key learning objectives. 
+#This assignment should include the following:
+#Use of the print() function to display a welcome and prompt a question to the user.
+#Use of the input() function and store in a variable called myInput.
+#Use the print() function to print the contents of myInput.
+#Use two math operators from Table 1-1 in your script. This may be used to manipulate some input from the user.
+#Use string concatenation.
+
 
 print('Hi there! Oh boy, I havent seen anyone for ages. What is your name?') #(print function) to display user greeting and prompt
 myName = input()  #(input function) to store user input in variable
